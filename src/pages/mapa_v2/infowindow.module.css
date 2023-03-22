@@ -1,0 +1,17 @@
+.info-window {
+  font-size: 16px;
+  font-weight: bold;
+  color: #333;
+}
+
+.info-window-title {
+  margin-bottom: 5px;
+}
+
+.info-window-subtitle {
+  margin-bottom: 5px;
+}
+
+.info-window-content {
+  margin-left: 10px;
+}
