@@ -26,6 +26,16 @@ const navigation = () => {
       path: '/mapa_v2',
       title: 'Mapa v2',
       icon: 'mdi:map-marker'
+    },
+    {
+      path: '/cuadro_resumen',
+      title: 'Cuadro Resumen',
+      icon: 'mdi:grid'
+    },
+    {
+      path: '/mapa_mp',
+      title: 'Mapa MP',
+      icon: 'mdi:map-marker'
     }
   ]
 }
